@@ -1,0 +1,52 @@
+.button{
+    -fx-background-color : #FFFFFF;
+    -fx-font-family : Arial;
+    -fx-text-align : center;
+    -fx-font-weight : bold;
+    -fx-font-size : 16px;
+}
+.del{
+    -fx-font-size : 14px;
+}
+
+.button :hover{
+    -fx-background-color : #C3C3C3;
+    -fx-boarder-size : 2px;
+    -fx-boarder-weight : bold;
+}
+
+.root{
+    -fx-background-color : #FFFFFF;
+}
+
+#binOutput, #decOutput, #hexOutput, #octOutput{
+    -fx-font-family : Calibri;
+    -fx-font-size : 14px;
+    -fx-font-weight : bold;
+}
+
+#binOutput:hover {
+    -fx-background-color : #C3C3C3;
+}
+
+#decOutput:hover{
+    -fx-background-color : #C3C3C3;
+}
+
+#hexOutput:hover{
+    -fx-background-color : #C3C3C3;
+}
+
+#octOutput:hover{
+    -fx-background-color : #C3C3C3;
+}
+
+
+#number{
+    -fx-font-family : Calibri;
+    -fx-font-size : 26px;
+    -fx-font-weight : bold;
+}
+
+
+
